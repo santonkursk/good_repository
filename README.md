@@ -1,2 +1,2 @@
-# good_repositoy
+# good_repository
 one good repository
